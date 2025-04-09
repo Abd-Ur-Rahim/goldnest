@@ -8,7 +8,7 @@ const logoSrc = "/GoldNest.png";
 const paypalSrc = "/paypal-icon.png"; // Ensure these exist
 // Add other payment provider logos if used (Paytm mentioned in HTML?)
 // const paytmSrc = "/paytm-icon.png";
-const payhereSrc = "/payhere-logo.png"; // Ensure this exists
+const payhereSrc = "/PayHere-icon.png"; // Ensure this exists
 
 export default function FooterInternal() {
   return (
