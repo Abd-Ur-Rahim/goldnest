@@ -27,17 +27,17 @@ export default function FooterInternal() {
                 <ul>
                     {/* Update hrefs */}
                     <li><Link href="/dashboard">Home (Dashboard)</Link></li>
-                    <li><Link href="/calculator">Calculator</Link></li>
+                    <li><Link href="/calculatorinternal">Calculator</Link></li>
                     <li><Link href="/marketinternal">Market</Link></li>
-                    <li><Link href="/about">About</Link></li>
+                    <li><Link href="/aboutinternal">About</Link></li>
                 </ul>
             </div>
             <div className="footer-section">
                 <h4>Legal</h4>
                 <ul>
-                    <li><Link href="/privacy">Privacy Policy</Link></li>
-                    <li><Link href="/terms">Terms of Service</Link></li>
-                    <li><Link href="/shipping">Shipping & Returns</Link></li>
+                    <li><Link href="/privacyinternal">Privacy Policy</Link></li>
+                    <li><Link href="/termsinternal">Terms of Service</Link></li>
+                    <li><Link href="/shippinginternal">Shipping & Returns</Link></li>
                 </ul>
             </div>
             <div className="footer-section">
