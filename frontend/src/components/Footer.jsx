@@ -6,7 +6,7 @@ import Image from 'next/image';
 // Assume icons are in public folder or handle Font Awesome setup separately
 const logoSrc = "/GoldNest.png"; // Small version? Or same?
 const paypalSrc = "/paypal-icon.png"; // Ensure these exist in /public
-const payhereSrc = "/PayHere-Logo.png"; // **USE CORRECT PAYHERE LOGO FILENAME**
+const payhereSrc = "/PayHere-icon.png"; // **USE CORRECT PAYHERE LOGO FILENAME**
 
 export default function Footer() {
   return (
